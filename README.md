@@ -1,3 +1,4 @@
 # kickstarter-analysis
 Performing analysis on Kickstarter data to uncover trends
 ![pivot_chart](https://user-images.githubusercontent.com/99696816/154185446-6c08184d-6a4d-4eea-9e37-9ff81e34e894.png)
+![outcomes_chart](https://user-images.githubusercontent.com/99696816/154185573-06e32e9c-ba62-45c8-a2e9-00161e287dad.png)
