@@ -27,6 +27,7 @@ Challenges and Difficulties Encountered
 One of the most difficult challenges I faced during my analysis of this First Challenge exercise was correctly calculating the COUNTIFS() function in the second deliverable. I discovered this function to be challenging and time-consuming in order to the get the correct range for the goal amount, the correct subcategory, and outcome. I encountered challenges in utilizing the pivot charts to visualize the line charts, so I had to review previous module exercises in order to properly utilize this pivot chart application. 
 
 Results
+
 What are the two conclusions you can draw about the Outcomes based on Launch Date?
 •	Upon reviewing the line chart, I noted that there was a significant peak of 109 successful theater campaigns in July and it would be ideal to launch a campaign in July compared to other months of year.
 •	The second conclusion is that failed plays do not vary much based on launch date, indicating that there is no other factor that would affect the campaign outcomes.
@@ -34,7 +35,9 @@ What are the two conclusions you can draw about the Outcomes based on Launch Dat
 What can you conclude about the Outcomes based on Goals?
 
 •	According to the line chart analysis, the highest percentage of successful plays happened with a goal of less than $1000. The highest percentage of failed plays was 100% with funding goal of $45,000 to $49,999. This analysis would conclude that is would be ideal to achieve a goal less than $1000.
+
 What are some of the limitations of this dataset?
+
 •	The limitations of this dataset does not show the genre of plays, which would be helpful in seeing why some plays were more successful than others were. In addition, it would be ideal to see other successful campaigning methods than failed campaigns to show any correlation there.
 
 
